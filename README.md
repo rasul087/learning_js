@@ -18,6 +18,11 @@ A JavaScript function that calculates the sum of all digits in a number using re
 
 A JavaScript function that calculates the sum of all numbers in a given range using recursion.
 
+### 🔹 Full Name Formatting
+📁 `full-name-formatting`
+
+Formats first and last names by correcting letter casing.
+
 
 **Topics:**
 - Recursion
