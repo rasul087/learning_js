@@ -13,21 +13,35 @@ Each folder represents a small, independent project.
 
 A JavaScript function that calculates the sum of all digits in a number using recursion.
 
+---
+
 ### 🔹 Sum Range (Recursion)
 📁 `sum-range-recursion`
 
 A JavaScript function that calculates the sum of all numbers in a given range using recursion.
+
+---
 
 ### 🔹 Full Name Formatting
 📁 `full-name-formatting`
 
 Formats first and last names by correcting letter casing.
 
+---
+
+### 🔹 Number Comparator
+📁 `number-comparator`
+
+A simple arrow function that compares two numbers and returns a positive,
+negative, or zero value depending on their order.
+
+---
 
 **Topics:**
 - Recursion
 - Numbers
 - Algorithms
+- Strings
 - JavaScript basics
 
 ---
