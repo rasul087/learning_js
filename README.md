@@ -51,6 +51,4 @@ Returns the correct word form depending on the given number.
 - Strings
 - JavaScript basics
 
----
-
 More projects will be added as I continue learning JavaScript 🚀
