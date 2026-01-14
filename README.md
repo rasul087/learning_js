@@ -51,4 +51,12 @@ Returns the correct word form depending on the given number.
 - Strings
 - JavaScript basics
 
+---
+
+### 🔹 Penultimate Array Element
+📁 `penultimate-array-element`
+
+Logs the second-to-last element of an array or `null` if it does not exist.
+
+
 More projects will be added as I continue learning JavaScript 🚀
