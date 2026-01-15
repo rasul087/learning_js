@@ -66,4 +66,12 @@ Logs the second-to-last element of an array or `null` if it does not exist.
 Modifies an array by inserting, removing, reordering elements and trimming its length
 
 
+---
+
+### 🔹 Get Value From 2D Array
+📁 `get-value-from-array`
+
+Returns a value from a two-dimensional array by row and column indexes with bounds checking
+
+
 More projects will be added as I continue learning JavaScript 🚀

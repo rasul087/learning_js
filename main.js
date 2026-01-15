@@ -1,18 +1,26 @@
-const arr = [5, 99, -2, 41, 76, 22, 85];
-arr.shift();
-arr.push(50, 15);
+"use strict";
 
-const secondElement = arr.splice(1, 1);
-arr.push(secondElement[0]);
-
-function trimArray(arr) {
-  if (arr.length <= 5) {
-    return arr;
-  }
-
-  arr.pop();
-  return trimArray(arr);
+const arr = [
+  [10, 15],
+  [20, 25],
+  [30, 35],
+  [40, 45],
+];
+const i = 4;
+const j = 0;
+/**
+ *
+ * @param {Array} arr
+ * @param {Number} i
+ * @param {Number} j
+ * @returns
+ */
+function getValueFromArray(arr, i, j) {
+  if (arr[i] === undefined)
+    return "Указанные индексы выходят за границы массива.";
+  if (arr[i][j] === undefined)
+    return "Указанные индексы выходят за границы массива.";
+  return arr[i][j];
 }
 
-trimArray(arr);
-console.log(arr);
+console.log(getValueFromArray(arr, i, j));
