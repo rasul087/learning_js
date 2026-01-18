@@ -82,4 +82,12 @@ Returns a value from a two-dimensional array by row and column indexes with boun
 Prints a countdown from a given number to zero and then logs a launch message
 
 
+---
+
+### 🔹 Compare Arrays
+📁 `compare-arrays`
+
+Compares two arrays and checks whether they are equal by length, order, and values
+
+
 More projects will be added as I continue learning JavaScript 🚀
