@@ -106,4 +106,12 @@ Prints a number staircase using nested loops where each row starts from its inde
 Converts an array of numbers into a formatted string joined by arrows
 
 
+---
+
+### 🔹 Is Sorted
+📁 `is-sorted`
+
+Checks whether an array is sorted in ascending order
+
+
 More projects will be added as I continue learning JavaScript 🚀
