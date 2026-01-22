@@ -114,4 +114,12 @@ Converts an array of numbers into a formatted string joined by arrows
 Checks whether an array is sorted in ascending order
 
 
+---
+
+### 🔹 Sum of Positive Numbers in 2D Array
+📁 `sum-positive-2d-array`
+
+Calculates the sum of all positive numbers in a two-dimensional array
+
+
 More projects will be added as I continue learning JavaScript 🚀
